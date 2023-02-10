@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Simplified markerless stride detection pipeline (sMaSDP)
+  for surface EMG segmentation
+message: >-
+  If you would like to use these codes, please cite the
+  following work:
+type: software
+authors:
+  - given-names: Rafael
+    family-names: Castro Aguiar
+    email: bsrdca@leeds.ac.uk
+    name-particle: Rafael
+    affiliation: University of Leeds
+    orcid: 'https://orcid.org/0000-0002-6489-3544'
+identifiers:
+  - type: doi
+    value: 10.48550/arXiv.2302.04243
+keywords:
+  - gait detection algorithms
+  - EMG
+  - IMU
+  - Muscle activity patterns

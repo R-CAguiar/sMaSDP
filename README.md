@@ -8,3 +8,4 @@ This compilation of codes details a gait event detection protocol, with a guide 
 
 Brantley JA, Luu TP, Nakagome S, Zhu F, Contreras-Vidal JL. Full body mobile brain-body imaging data during unconstrained locomotion on stairs, ramps, and level ground. Sci Data. 2018 Jul 10;5:180133. doi: 10.1038/sdata.2018.133. PMID: 29989591; PMCID: PMC6038848.
 
+[![DOI](https://sandbox.zenodo.org/badge/599693535.svg)](https://sandbox.zenodo.org/badge/latestdoi/599693535)
